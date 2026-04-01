@@ -1,9 +1,8 @@
-# Emily Talen Research Project Deliverables
+Research Project Deliverables
 
 This repository contains the reports, scripts, figures, and small supporting files for two urban research projects:
 
 1. **Project 1** — Chicago implementation and validation of the GlobalBuildingAtlas (GBA)
-2. **Project 2** — Baseline GIS database and machine-learning pilot for historic markers / plaques in Chicago
 
 ## Large spatial data
 Because the main GIS files are too large for a normal GitHub repository workflow, the full Project 1 spatial data are shared separately:
